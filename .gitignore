@@ -1,0 +1,13 @@
+#package
+/.gradle
+/.idea
+/build
+/gradle
+#other
+*.xml
+# Package Files #
+settings.gradle
+gradlew
+gradlew.bat
+#db Files
+*.db
